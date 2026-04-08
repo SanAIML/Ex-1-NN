@@ -38,8 +38,8 @@ STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
 ```
-Name : R Guruprasad
-Reg no. : 212222240033
+Name : Sanchita Sandeep
+Reg no. : 212224240142
 
 import numpy as np
 import pandas as pd
